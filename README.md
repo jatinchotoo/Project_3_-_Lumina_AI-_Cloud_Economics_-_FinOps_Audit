@@ -14,7 +14,8 @@
 | **Monthly Savings Opportunity** | **~R8.9 Million** |
 | **Annual Capital Recovery Potential** | **~R107 Million** |
 
-> **Audit Evidence:** [View Raw Infrastructure Logs](Lumina_Raw_Logs.png)
+> ### 🔍 Technical Audit Evidence (Raw Logs)
+![Raw Infrastructure Logs](Lumina_Raw_Logs.png)
 
 ---
 
